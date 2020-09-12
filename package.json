@@ -1,0 +1,24 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "this is a test dir to learn git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilyar1997/local_rep.git"
+  },
+  "author": "Dilyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilyar1997/local_rep/issues"
+  },
+  "homepage": "https://github.com/Dilyar1997/local_rep#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
